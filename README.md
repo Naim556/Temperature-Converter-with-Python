@@ -29,10 +29,12 @@ Celsius=Kelvin−273.15.
 5. Function get_temperature_input:
 
 Handles user input for temperature, ensuring valid numeric values are entered.
+
 6. Function continue_exit:
 
 Asks the user whether they want to continue or exit the program.
 Only accepts valid inputs "Y" or "N".
+
 7. Function main:
 
 The entry point of the program. It:
