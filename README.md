@@ -60,19 +60,23 @@ Girilen sıcaklığı Celsius'tan Kelvin'e çevirir.
 Formül: 
 
 Kelvin=Celsius+273.15.
+
 4. kelvin_to_celsius Fonksiyonu:
 
 Girilen sıcaklığı Kelvin'den Celsius'a çevirir.
 Formül: 
 
 Celsius=Kelvin−273.15.
+
 5. get_temperature_input Fonksiyonu:
 
 Kullanıcıdan sıcaklık girişi alır ve yalnızca geçerli sayısal değerlerin girilmesini sağlar.
+
 6. continue_exit Fonksiyonu:
 
 Kullanıcıya devam etmek veya çıkış yapmak isteyip istemediğini sorar.
 Yalnızca "Y" veya "N" değerlerini kabul eder.
+
 7. main Fonksiyonu:
 
 Programın başlangıç noktasıdır ve şu görevleri yerine getirir:
@@ -94,25 +98,30 @@ Her dönüştürmeden sonra devam edip etmeyeceğini kullanıcıya sorar.
 فرمول تبدیل: 
 
 Celsius = 5 / 9 × (Fahrenheit−32).
+
 3. تابع celsius_to_kelvin:
 
 دمای ورودی در مقیاس سلسیوس را به کلوین تبدیل می‌کند.
 فرمول تبدیل: 
 
 Kelvin=Celsius+273.15.
+
 4. تابع kelvin_to_celsius:
 
 دمای ورودی در مقیاس کلوین را به سلسیوس تبدیل می‌کند.
 فرمول تبدیل: 
 
 Celsius=Kelvin−273.15.
+
 5. تابع get_temperature_input:
 
 این تابع مقدار دما را از کاربر دریافت کرده و در صورت وارد شدن مقادیر نامعتبر (مانند متن)، پیام خطا نمایش می‌دهد و ورودی مجدد درخواست می‌کند.
+
 6. تابع continue_exit:
 
 این تابع از کاربر می‌پرسد که آیا می‌خواهد ادامه دهد یا برنامه را ترک کند.
 تنها مقادیر معتبر "Y" یا "N" پذیرفته می‌شوند.
+
 7. تابع main:
 
 این تابع نقطه شروع برنامه است و وظیفه مدیریت عملکرد کلی را بر عهده دارد:
