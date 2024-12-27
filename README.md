@@ -5,25 +5,33 @@ A temperature converter that converts Celsius to Fahrenheit and vice versa, you 
 1. Function celsius_to_fahrenheit:
 
 Converts the input temperature from Celsius to Fahrenheit.
+
 Formula: 
+
 𝐹𝑎ℎ𝑟𝑒𝑛ℎ𝑒𝑖𝑡 = 9 / 5 × 𝐶𝑒𝑙𝑠𝑖𝑢𝑠 + 32
 
 2. Function fahrenheit_to_celsius:
 
 Converts the input temperature from Fahrenheit to Celsius.
+
 Formula: 
+
 Celsius = 5 / 9 × (Fahrenheit−32).
 
 3. Function celsius_to_kelvin:
 
 Converts the input temperature from Celsius to Kelvin.
+
 Formula: 
+
 Kelvin=Celsius+273.15.
 
 4. Function kelvin_to_celsius:
 
 Converts the input temperature from Kelvin to Celsius.
+
 Formula: 
+
 Celsius=Kelvin−273.15.
 
 5. Function get_temperature_input:
@@ -47,18 +55,23 @@ Asks the user whether to continue or exit after each conversion.
 1. celsius_to_fahrenheit Fonksiyonu:
 
 Girilen sıcaklığı Celsius'tan Fahrenheit'a çevirir.
+
 Formül: 
+
 𝐹𝑎ℎ𝑟𝑒𝑛ℎ𝑒𝑖𝑡 = 9 / 5 × 𝐶𝑒𝑙𝑠𝑖𝑢𝑠 + 32
 
 2. fahrenheit_to_celsius Fonksiyonu:
 
 Girilen sıcaklığı Fahrenheit'tan Celsius'a çevirir.
+
 Formül: 
+
 Celsius = 5 / 9 × (Fahrenheit−32).
 
 3. celsius_to_kelvin Fonksiyonu:
 
 Girilen sıcaklığı Celsius'tan Kelvin'e çevirir.
+
 Formül: 
 
 Kelvin=Celsius+273.15.
@@ -66,6 +79,7 @@ Kelvin=Celsius+273.15.
 4. kelvin_to_celsius Fonksiyonu:
 
 Girilen sıcaklığı Kelvin'den Celsius'a çevirir.
+
 Formül: 
 
 Celsius=Kelvin−273.15.
@@ -91,12 +105,15 @@ Her dönüştürmeden sonra devam edip etmeyeceğini kullanıcıya sorar.
 1. تابع celsius_to_fahrenheit:
 
 این تابع دمای ورودی در مقیاس سلسیوس را به فارنهایت تبدیل می‌کند.
+
 فرمول تبدیل: 
+
 𝐹𝑎ℎ𝑟𝑒𝑛ℎ𝑒𝑖𝑡 = 9 / 5 × 𝐶𝑒𝑙𝑠𝑖𝑢𝑠 + 32
 
 2. تابع fahrenheit_to_celsius:
 
 این تابع دمای ورودی در مقیاس فارنهایت را به سلسیوس تبدیل می‌کند.
+
 فرمول تبدیل: 
 
 Celsius = 5 / 9 × (Fahrenheit−32).
@@ -104,6 +121,7 @@ Celsius = 5 / 9 × (Fahrenheit−32).
 3. تابع celsius_to_kelvin:
 
 دمای ورودی در مقیاس سلسیوس را به کلوین تبدیل می‌کند.
+
 فرمول تبدیل: 
 
 Kelvin=Celsius+273.15.
@@ -111,6 +129,7 @@ Kelvin=Celsius+273.15.
 4. تابع kelvin_to_celsius:
 
 دمای ورودی در مقیاس کلوین را به سلسیوس تبدیل می‌کند.
+
 فرمول تبدیل: 
 
 Celsius=Kelvin−273.15.
